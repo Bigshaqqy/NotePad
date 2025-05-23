@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shakir.yusufnure\\Downloads\\notePad\\notePad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6A2960-741C-4027-B6EB-95BBA1A7C079}|notePad\\notePad.csproj|c:\\users\\shakir.yusufnure\\downloads\\notepad\\notepad\\notepad\\view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6A2960-741C-4027-B6EB-95BBA1A7C079}|notePad\\notePad.csproj|solutionrelative:notepad\\view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6A2960-741C-4027-B6EB-95BBA1A7C079}|notePad\\notePad.csproj|c:\\users\\shakir.yusufnure\\downloads\\notepad\\notepad\\notepad\\main\\judge0coderunnerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6A2960-741C-4027-B6EB-95BBA1A7C079}|notePad\\notePad.csproj|solutionrelative:notepad\\main\\judge0coderunnerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6A2960-741C-4027-B6EB-95BBA1A7C079}|notePad\\notePad.csproj|c:\\users\\shakir.yusufnure\\downloads\\notepad\\notepad\\notepad\\main\\icoderunnerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6A2960-741C-4027-B6EB-95BBA1A7C079}|notePad\\notePad.csproj|solutionrelative:notepad\\main\\icoderunnerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6A2960-741C-4027-B6EB-95BBA1A7C079}|notePad\\notePad.csproj|c:\\users\\shakir.yusufnure\\downloads\\notepad\\notepad\\notepad\\main\\htmllanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6A2960-741C-4027-B6EB-95BBA1A7C079}|notePad\\notePad.csproj|solutionrelative:notepad\\main\\htmllanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6A2960-741C-4027-B6EB-95BBA1A7C079}|notePad\\notePad.csproj|c:\\users\\shakir.yusufnure\\downloads\\notepad\\notepad\\notepad\\main\\csharplanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6A2960-741C-4027-B6EB-95BBA1A7C079}|notePad\\notePad.csproj|solutionrelative:notepad\\main\\csharplanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6A2960-741C-4027-B6EB-95BBA1A7C079}|notePad\\notePad.csproj|c:\\users\\shakir.yusufnure\\downloads\\notepad\\notepad\\notepad\\main\\cpplanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6A2960-741C-4027-B6EB-95BBA1A7C079}|notePad\\notePad.csproj|solutionrelative:notepad\\main\\cpplanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6A2960-741C-4027-B6EB-95BBA1A7C079}|notePad\\notePad.csproj|c:\\users\\shakir.yusufnure\\downloads\\notepad\\notepad\\notepad\\view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EF6A2960-741C-4027-B6EB-95BBA1A7C079}|notePad\\notePad.csproj|solutionrelative:notepad\\view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6A2960-741C-4027-B6EB-95BBA1A7C079}|notePad\\notePad.csproj|c:\\users\\shakir.yusufnure\\downloads\\notepad\\notepad\\notepad\\main\\languagedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6A2960-741C-4027-B6EB-95BBA1A7C079}|notePad\\notePad.csproj|solutionrelative:notepad\\main\\languagedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6A2960-741C-4027-B6EB-95BBA1A7C079}|notePad\\notePad.csproj|c:\\users\\shakir.yusufnure\\downloads\\notepad\\notepad\\notepad\\main\\languageoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6A2960-741C-4027-B6EB-95BBA1A7C079}|notePad\\notePad.csproj|solutionrelative:notepad\\main\\languageoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6A2960-741C-4027-B6EB-95BBA1A7C079}|notePad\\notePad.csproj|c:\\users\\shakir.yusufnure\\downloads\\notepad\\notepad\\notepad\\main\\pythonlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6A2960-741C-4027-B6EB-95BBA1A7C079}|notePad\\notePad.csproj|solutionrelative:notepad\\main\\pythonlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6A2960-741C-4027-B6EB-95BBA1A7C079}|notePad\\notePad.csproj|c:\\users\\shakir.yusufnure\\downloads\\notepad\\notepad\\notepad\\main\\programminglanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6A2960-741C-4027-B6EB-95BBA1A7C079}|notePad\\notePad.csproj|solutionrelative:notepad\\main\\programminglanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6A2960-741C-4027-B6EB-95BBA1A7C079}|notePad\\notePad.csproj|c:\\users\\shakir.yusufnure\\downloads\\notepad\\notepad\\notepad\\main\\javalanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6A2960-741C-4027-B6EB-95BBA1A7C079}|notePad\\notePad.csproj|solutionrelative:notepad\\main\\javalanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6A2960-741C-4027-B6EB-95BBA1A7C079}|notePad\\notePad.csproj|c:\\users\\shakir.yusufnure\\downloads\\notepad\\notepad\\notepad\\main\\lualanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6A2960-741C-4027-B6EB-95BBA1A7C079}|notePad\\notePad.csproj|solutionrelative:notepad\\main\\lualanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 173,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICodeRunnerService.cs",
+              "DocumentMoniker": "C:\\Users\\shakir.yusufnure\\Downloads\\notePad\\notePad\\notePad\\main\\ICodeRunnerService.cs",
+              "RelativeDocumentMoniker": "notePad\\main\\ICodeRunnerService.cs",
+              "ToolTip": "C:\\Users\\shakir.yusufnure\\Downloads\\notePad\\notePad\\notePad\\main\\ICodeRunnerService.cs",
+              "RelativeToolTip": "notePad\\main\\ICodeRunnerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:28:06.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Judge0CodeRunnerService.cs",
+              "DocumentMoniker": "C:\\Users\\shakir.yusufnure\\Downloads\\notePad\\notePad\\notePad\\main\\Judge0CodeRunnerService.cs",
+              "RelativeDocumentMoniker": "notePad\\main\\Judge0CodeRunnerService.cs",
+              "ToolTip": "C:\\Users\\shakir.yusufnure\\Downloads\\notePad\\notePad\\notePad\\main\\Judge0CodeRunnerService.cs",
+              "RelativeToolTip": "notePad\\main\\Judge0CodeRunnerService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:29:46.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shakir.yusufnure\\Downloads\\notePad\\notePad\\notePad\\view\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "notePad\\view\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\shakir.yusufnure\\Downloads\\notePad\\notePad\\notePad\\view\\MainPage.xaml.cs",
+              "RelativeToolTip": "notePad\\view\\MainPage.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:04:51.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HtmlLanguage.cs",
+              "DocumentMoniker": "C:\\Users\\shakir.yusufnure\\Downloads\\notePad\\notePad\\notePad\\main\\HtmlLanguage.cs",
+              "RelativeDocumentMoniker": "notePad\\main\\HtmlLanguage.cs",
+              "ToolTip": "C:\\Users\\shakir.yusufnure\\Downloads\\notePad\\notePad\\notePad\\main\\HtmlLanguage.cs",
+              "RelativeToolTip": "notePad\\main\\HtmlLanguage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T13:32:17.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CSharpLanguage.cs",
+              "DocumentMoniker": "C:\\Users\\shakir.yusufnure\\Downloads\\notePad\\notePad\\notePad\\main\\CSharpLanguage.cs",
+              "RelativeDocumentMoniker": "notePad\\main\\CSharpLanguage.cs",
+              "ToolTip": "C:\\Users\\shakir.yusufnure\\Downloads\\notePad\\notePad\\notePad\\main\\CSharpLanguage.cs",
+              "RelativeToolTip": "notePad\\main\\CSharpLanguage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T13:30:07.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CppLanguage.cs",
+              "DocumentMoniker": "C:\\Users\\shakir.yusufnure\\Downloads\\notePad\\notePad\\notePad\\main\\CppLanguage.cs",
+              "RelativeDocumentMoniker": "notePad\\main\\CppLanguage.cs",
+              "ToolTip": "C:\\Users\\shakir.yusufnure\\Downloads\\notePad\\notePad\\notePad\\main\\CppLanguage.cs",
+              "RelativeToolTip": "notePad\\main\\CppLanguage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T13:37:44.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\shakir.yusufnure\\Downloads\\notePad\\notePad\\notePad\\view\\MainPage.xaml",
+              "RelativeDocumentMoniker": "notePad\\view\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\shakir.yusufnure\\Downloads\\notePad\\notePad\\notePad\\view\\MainPage.xaml",
+              "RelativeToolTip": "notePad\\view\\MainPage.xaml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T10:04:02.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LanguageOption.cs",
+              "DocumentMoniker": "C:\\Users\\shakir.yusufnure\\Downloads\\notePad\\notePad\\notePad\\main\\LanguageOption.cs",
+              "RelativeDocumentMoniker": "notePad\\main\\LanguageOption.cs",
+              "ToolTip": "C:\\Users\\shakir.yusufnure\\Downloads\\notePad\\notePad\\notePad\\main\\LanguageOption.cs",
+              "RelativeToolTip": "notePad\\main\\LanguageOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T12:53:52.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PythonLanguage.cs",
+              "DocumentMoniker": "C:\\Users\\shakir.yusufnure\\Downloads\\notePad\\notePad\\notePad\\main\\PythonLanguage.cs",
+              "RelativeDocumentMoniker": "notePad\\main\\PythonLanguage.cs",
+              "ToolTip": "C:\\Users\\shakir.yusufnure\\Downloads\\notePad\\notePad\\notePad\\main\\PythonLanguage.cs",
+              "RelativeToolTip": "notePad\\main\\PythonLanguage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T13:30:30.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "languageDetector.cs",
+              "DocumentMoniker": "C:\\Users\\shakir.yusufnure\\Downloads\\notePad\\notePad\\notePad\\main\\languageDetector.cs",
+              "RelativeDocumentMoniker": "notePad\\main\\languageDetector.cs",
+              "ToolTip": "C:\\Users\\shakir.yusufnure\\Downloads\\notePad\\notePad\\notePad\\main\\languageDetector.cs",
+              "RelativeToolTip": "notePad\\main\\languageDetector.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:09:30.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProgrammingLanguage.cs",
+              "DocumentMoniker": "C:\\Users\\shakir.yusufnure\\Downloads\\notePad\\notePad\\notePad\\main\\ProgrammingLanguage.cs",
+              "RelativeDocumentMoniker": "notePad\\main\\ProgrammingLanguage.cs",
+              "ToolTip": "C:\\Users\\shakir.yusufnure\\Downloads\\notePad\\notePad\\notePad\\main\\ProgrammingLanguage.cs",
+              "RelativeToolTip": "notePad\\main\\ProgrammingLanguage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T13:29:00.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JavaLanguage.cs",
+              "DocumentMoniker": "C:\\Users\\shakir.yusufnure\\Downloads\\notePad\\notePad\\notePad\\main\\JavaLanguage.cs",
+              "RelativeDocumentMoniker": "notePad\\main\\JavaLanguage.cs",
+              "ToolTip": "C:\\Users\\shakir.yusufnure\\Downloads\\notePad\\notePad\\notePad\\main\\JavaLanguage.cs",
+              "RelativeToolTip": "notePad\\main\\JavaLanguage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T13:33:35.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LuaLanguage.cs",
+              "DocumentMoniker": "C:\\Users\\shakir.yusufnure\\Downloads\\notePad\\notePad\\notePad\\main\\LuaLanguage.cs",
+              "RelativeDocumentMoniker": "notePad\\main\\LuaLanguage.cs",
+              "ToolTip": "C:\\Users\\shakir.yusufnure\\Downloads\\notePad\\notePad\\notePad\\main\\LuaLanguage.cs",
+              "RelativeToolTip": "notePad\\main\\LuaLanguage.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T13:34:41.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 227,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{778b5376-ad77-4751-acdc-f3d18343f8dd}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
